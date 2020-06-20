@@ -14,5 +14,14 @@ Neste Lab, vamos extrair dados reais de atletas da NBA - a Liga de Basquete Nort
 Nossa fonte de dados será o site <a href="https://www.basketball-reference.com">Bastketball Reference</a> que mantém todos os detalhes e estatísticas sobre a NBA.
 
 ## Bibliotecas
-- pip install -q -U watermark
-- pip install -q -U pingouin
+*Scraping*
+- pip install bs4
+- pip install csv 
+- pip install requests -
+- pip install bs4
+
+*Analise*
+- pip install pandas
+- pip install seaborn
+- pip install matplotlib
+- pip install pingouin
